@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**Abdellatif-nogdalla/Abdellatif-nogdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdellatif Ali, a cybersecurity enthusiast and computer science student at Cairo University.  
+Here you'll find my projects, scripts, and contributions focused on offensive security, web pentesting, and programming.
 
-Here are some ideas to get you started:
+## 🚀 What I do:
+- Ethical Hacking & Penetration Testing  
+- Linux & Networking  
+- Web Development Basics (HTML, CSS, JavaScript)  
+- Python scripting for automation and security tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- Email: abady2003.aa@gmail.com  
+- LinkedIn: [linkedin.com/in/abdellatifnogdalla](https://www.linkedin.com/in/abdellatifnogdalla)  
+
+Feel free to check my repositories, open issues, and contribute! Let's learn and improve together.  
+
+---
+
+*“Security is not a product, but a process.”*  
