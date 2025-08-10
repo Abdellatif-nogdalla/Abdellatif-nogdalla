@@ -1,20 +1,20 @@
-# Welcome to my GitHub profile! 👋
+# Hi, I'm Abdellatif Ali 👋
 
-I'm Abdellatif Ali, a cybersecurity enthusiast and computer science student at Cairo University.  
-Here you'll find my projects, scripts, and contributions focused on offensive security, web pentesting, and programming.
+🎯 **Aspiring Cybersecurity Specialist & Ethical Hacker**  
+📚 Computer Science student at Cairo University (Class of 2026)  
+🚀 On a mission to master Offensive Security, Web Penetration Testing, and Cyber Defense  
 
-## 🚀 What I do:
-- Ethical Hacking & Penetration Testing  
-- Linux & Networking  
-- Web Development Basics (HTML, CSS, JavaScript)  
-- Python scripting for automation and security tools  
+## 🔹 Skills & Tools
+- Linux (basic to intermediate commands)
+- Networking fundamentals
+- Web technologies: HTML, CSS, JavaScript
+- Cybersecurity tools: Nmap, Burp Suite, SQLmap
 
-## 📫 How to reach me:
-- Email: abady2003.aa@gmail.com  
-- LinkedIn: [linkedin.com/in/abdellatifnogdalla](https://www.linkedin.com/in/abdellatifnogdalla)  
+## 🔹 My Goals
+- Achieve advanced skills in cybersecurity within the next 12 months
+- Contribute to open-source security projects
+- Build strong professional connections with people in the same field
 
-Feel free to check my repositories, open issues, and contribute! Let's learn and improve together.  
-
----
-
-*“Security is not a product, but a process.”*  
+## 📫 Let's Connect
+- **Email:** abady2003.aa@gmail.com
+- **LinkedIn:** [linkedin.com/in/abdellatifnogdalla](https://www.linkedin.com/in/abdellatifnogdalla)
