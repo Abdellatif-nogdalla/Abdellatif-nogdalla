@@ -11,7 +11,7 @@
 - Cybersecurity tools: Nmap, Burp Suite, SQLmap
 
 ## 🔹 My Goals
-- Achieve advanced skills in cybersecurity within the next 12 months
+- Achieve advanced skills in cybersecurity
 - Contribute to open-source security projects
 - Build strong professional connections with people in the same field
 
